@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.todo-form {
+  align-items: center;
+  justify-content: center;
+}
+.header {
+  margin: 20px 0px 0px 0px;
+}
+.hk {
+  background-color: chocolate;
+}

@@ -1,0 +1,43 @@
+
+      <div class="d-flex justify-content-center">
+        <div className="card d-flex flex-row w-50 justify-content-center">
+          <li>ygddbcyfho</li>
+          <button className="btn btn-lg btn-success justify-content-end ">
+            <i class="bi bi-check-circle"></i>
+          </button>
+          <button className="btn btn-lg btn-danger justify-content-end ">
+            <i class="bi bi-trash-fill"></i>
+          </button>
+        </div>
+      </div>
+
+
+      <Col xs lg="2" className="h">
+            1 of 3
+          </Col>
+          <Col md="auto" className="i">
+            Variable
+          </Col>
+
+
+
+
+
+
+
+
+          
+      <Container className="d-flex justify-content-center w-50 h">
+        <Container className="dj  flex-fill">
+          <Card>
+            <Card.Body>{text}</Card.Body>
+          </Card>
+          <Button className="btn btn-success m-2">
+            <i class="bi bi-check fa-lg "></i>
+          </Button>
+
+          <Button className="btn btn-danger m-2">
+            <i class="bi bi-trash-fill"></i>
+          </Button>
+        </Container>
+      </Container>
